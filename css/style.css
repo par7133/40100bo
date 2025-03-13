@@ -1,0 +1,92 @@
+/**
+ * Copyright (c) 2016, 2022, the Open Gallery's contributors
+ * All rights reserved.
+ * 
+ * Redistribution and use in source and binary forms, with or without
+ * modification, are permitted provided that the following conditions are met:
+ *     * Redistributions of source code must retain the above copyright
+ *       notice, this list of conditions and the following disclaimer.
+ *     * Redistributions in binary form must reproduce the above copyright
+ *       notice, this list of conditions and the following disclaimer in the
+ *       documentation and/or other materials provided with the distribution.
+ *     * Neither Open Gallery nor the names of its contributors 
+ *       may be used to endorse or promote products derived from this software 
+ *       without specific prior written permission.
+ * 
+ * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+ * ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+ * WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+ * DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDERS OR CONTRIBUTORS BE LIABLE FOR ANY
+ * DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+ * (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+ * LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+ * ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+ * (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+ * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+ *
+ * style.css
+ * 
+ * Style sheet.
+ *
+ * @author Daniele Bonini <danielemi@hotmail.com>
+ * @copyrights (c) 2016, 2022, the Open Gallery's contributors     
+ * @license https://opensource.org/licenses/BSD-3-Clause 
+ */
+
+body {
+  background-color: #eee;
+  margin: 55px 40px 40px 40px;
+  font-family: Sans,Verdana,Arial,Helvetica;
+  font-size: 16px;
+  color: #222;
+}  
+a {
+  color: #245269;
+  font-weight: 900;
+}
+.aaa {
+  color: red;
+}
+#footerCont {
+  position: relative; 
+  /*top: 2000px; */
+  left:-10px;
+  width: 102%; 
+  border: 1px solid #C2DBF2; 
+  padding: 7px; 
+  background: white; 
+  opacity: 0.3;
+  color:white; 
+  font-family: Arial,Sans,Vardana;
+  font-size: 12px; 
+  text-align: center; 
+  z-index: 99998;
+}
+#footer {
+  position: relative;
+  float: right;
+  /*top: 2000px; */
+  left:-10px;
+  width: 100%; 
+  border: 0px solid #C2DBF2; 
+  padding: 7px; 
+  opacity: 1.0;
+  color:black; 
+  font-family: Arial,Sans,Vardana;
+  font-size: 12px; 
+  font-weight: 400;
+  text-align: right; 
+  margin-top:8px;
+  z-index: 99999;
+}
+.res {
+  float: left;
+  width: 375px;
+  height: 40px;
+  font-weight: 900;
+}
+.tag {
+  font-weight: 400;
+  font-style: italic;
+}
+   
