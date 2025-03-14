@@ -1,3 +1,9 @@
+<p align="center">
+    <a href="#">
+        <img src="./res/murales.png" width="500" title="40100 BO" alt="40100 BO">
+    </a>
+</p>
+
 # 40100 BO
 Welcome to 40100 BO   
  
