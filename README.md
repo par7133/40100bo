@@ -1,5 +1,5 @@
 # 40100 BO
-Welcome to 40100 Bologna Public List   
+Welcome to 40100 BO   
  
      
 To get an inclusion please open an <a href="https://github.com/par7133/40100bo/issues">issue</a> quoting:
