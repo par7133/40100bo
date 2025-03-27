@@ -15,3 +15,5 @@ website link (Facebook pages are also fine).
    
 Both the information are required.
 
+Feedback: <a href="mailto:code@gaox.io">code@gaox.io</a>
+
